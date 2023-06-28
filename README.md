@@ -1,0 +1,2 @@
+# nonebot_plugin_d4boss
+用于查询D4boss的nonebot2机器人脚本
